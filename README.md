@@ -27,15 +27,10 @@ I am Savya Sanchi Sharma, a student with a passion for learning and creating inn
 **Technologies Used:** Python, Pandas, Plotly, BeautifulSoup, Yfinance, Requests, Jupyter Notebook
 
 **Project Files:**
-- `data/tesla_stock_data.csv`
-- `data/gamestop_stock_data.csv`
-- `notebooks/tesla_analysis.ipynb`
-- `notebooks/gamestop_analysis.ipynb`
-- `scripts/data_preprocessing.py`
-- `scripts/analysis.py`
-- `results/tesla_stock_plots/`
-- `results/gamestop_stock_plots/`
-
+- ['data_science_projects/Tesla_and_Gamestock_stock_analysis/data/gme_data']('data_science_projects/Tesla_and_Gamestock_stock_analysis/data/gme_data')
+- ['data_science_projects/Tesla_and_Gamestock_stock_analysis/data/gme_reveneue']('data_science_projects/Tesla_and_Gamestock_stock_analysis/data/gme_reveneue')
+- ['data_science_projects/Tesla_and_Gamestock_stock_analysis/data/tesla_data']('data_science_projects/Tesla_and_Gamestock_stock_analysis/data/tesla_data')
+- ['data_science_projects/Tesla_and_Gamestock_stock_analysis/data/tesla_revenue']('data_science_projects/Tesla_and_Gamestock_stock_analysis/data/tesla_revenue')
 
 ## Repository Structure
 
