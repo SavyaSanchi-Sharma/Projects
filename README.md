@@ -22,9 +22,9 @@ I am Savya Sanchi Sharma, a student with a passion for learning and creating inn
 
 #### Tesla and GameStop Stock Data Analysis
 
-**Description:** This project analyzes the stock data of Tesla and GameStop to uncover trends, patterns, and insights. The analysis includes data preprocessing, visualization, and various statistical methods.
+**Description:** This project analyzes the historical stock data and revenue of Tesla and GameStop up until July 2021, all in US dollars. The analysis focuses on uncovering trends, patterns, and insights through data preprocessing and visualization. Data extraction utilized web scraping techniques and the Yahoo Finance library.
 
-**Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+**Technologies Used:** Python, Pandas, Plotly, BeautifulSoup, Yfinance, Requests, Jupyter Notebook
 
 **Project Files:**
 - `data/tesla_stock_data.csv`
