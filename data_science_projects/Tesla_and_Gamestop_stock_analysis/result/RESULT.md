@@ -1,4 +1,4 @@
-# Analysis of Stock and Revenue Data for Tesla and GameStock
+.# Analysis of Stock and Revenue Data for Tesla and GameStock
 
 ## Data Sources
 - Stock data sourced from [Yahoo Finance](https://finance.yahoo.com)
@@ -50,7 +50,7 @@
 ![Tesla Stock Price Chart](data_science_projects/Tesla_and_Gamestop_stock_analysis/result/tesla_visual_analysis.png)
 
 ### GameStop Revenue
-![GameStop Revenue Chart](data_science_projects/Tesla_and_Gamestop_stock_analysis/result/gamestock_visual_analysis.png)
+![GameStop Revenue Chart](data_science_projects/Tesla_and_Gamestop_stock_analysis/result/gamestop_visual_analysis.png)
 
 ## Conclusion
 - **Tesla**: Tesla has shown remarkable growth in both stock price and revenue, reflecting strong investor confidence and leadership in the electric vehicle market. Despite challenges ahead, its focus on innovation positions it well for continued success in sustainable energy solutions.
