@@ -7,9 +7,9 @@ Welcome to my GitHub repository! This repository contains a collection of my pro
 - [Introduction](#introduction)
 - [Projects](#projects)
    - [Data Science](#data-science)
+      -[Tesla and GameStock Stock Data Analysis](##tesla-gamestock-data-analysis)
 - [Repository Structure](#repository-structure)
 - [Skills and Tools](#skills-and-tools)
-- [Getting Started](#getting-started)
 - [Contact](#contact)
 
 ## Introduction
@@ -27,10 +27,11 @@ I am Savya Sanchi Sharma, a student with a passion for learning and creating inn
 **Technologies Used:** Python, Pandas, Plotly, BeautifulSoup, Yfinance, Requests, Jupyter Notebook
 
 **Project Files:**
-- ['data_science_projects/Tesla_and_Gamestock_stock_analysis/data/gme_data']('data_science_projects/Tesla_and_Gamestock_stock_analysis/data/gme_data')
-- ['data_science_projects/Tesla_and_Gamestock_stock_analysis/data/gme_reveneue']('data_science_projects/Tesla_and_Gamestock_stock_analysis/data/gme_reveneue')
-- ['data_science_projects/Tesla_and_Gamestock_stock_analysis/data/tesla_data']('data_science_projects/Tesla_and_Gamestock_stock_analysis/data/tesla_data')
-- ['data_science_projects/Tesla_and_Gamestock_stock_analysis/data/tesla_revenue']('data_science_projects/Tesla_and_Gamestock_stock_analysis/data/tesla_revenue')
+- [Gamestock Stock Data](data_science_projects/Tesla_and_Gamestock_stock_analysis/data/gme_data)
+- [Gamestock Revenue Data](data_science_projects/Tesla_and_Gamestock_stock_analysis/data/gme_reveneue)
+- [Tesla Stock Data](data_science_projects/Tesla_and_Gamestock_stock_analysis/data/tesla_data)
+- [Tesla Revenue Data](data_science_projects/Tesla_and_Gamestock_stock_analysis/data/tesla_revenue)
+- [Notebook File](data_science_projects/Tesla_and_Gamestock_stock_analysis/notebook/Stock_Analysis_of_Tesla_and_Gamestock.ipynb)
 
 ## Repository Structure
 
