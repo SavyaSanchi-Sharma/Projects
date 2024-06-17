@@ -31,6 +31,7 @@ I am Savya Sanchi Sharma, a student with a passion for learning and creating inn
 - [Tesla Stock Data](data_science_projects/Tesla_and_Gamestop_stock_analysis/data/tesla_data)
 - [Tesla Revenue Data](data_science_projects/Tesla_and_Gamestop_stock_analysis/data/tesla_revenue)
 - [Notebook File](data_science_projects/Tesla_and_Gamestop_stock_analysis/notebook/Stock_Analysis_of_Tesla_and_Gamestock.ipynb)
+- [Result](data_science_projects/Tesla_and_Gamestop_stock_analysis/result)
 
 ## Skills and Tools
 - **Programming Languages:** Python,SQL,C,C++
