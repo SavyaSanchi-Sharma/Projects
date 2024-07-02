@@ -17,7 +17,7 @@ This dataset is invaluable for understanding the global landscape of unicorn com
 ## Insights form the Dataset
 ### Country with the Most Unicorn Companies
 The United States has the most unicorn companies, with 51.7% of the total. China is in second place with 16.2%, and India is in third place with 6.08%. The remaining countries each have a smaller percentage of unicorn companies.<br>
-![Pie Chart]('data_science_projects/unicorn_dataset_analysis/result/unicorn_vs_country.png')
+![Pie Chart](data_science_projects/unicorn_dataset_analysis/result/unicorn_vs_country.png)
 ### Fintech Unicorn Companies
 **Country Distribution Of Fintech Companies:**<br>
 The three countries with most number of fintech companies -:
