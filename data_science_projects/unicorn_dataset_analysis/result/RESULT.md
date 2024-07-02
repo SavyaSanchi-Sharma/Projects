@@ -1,6 +1,6 @@
 # Analysis of Fintech, Artificial Intelligence, Cybersecurity and Data Management and Analytics Unicorn Companies
 ## Data Source
-- Dataset is Taken from (Kaggle)['https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset']
+- Dataset is Taken from [Kaggle]('https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset')
 ## Analysis Methodology
 **Data Extraction:**<br>
 The data for this analysis was sourced from Kaggle, a prominent platform for data science and machine learning datasets.
@@ -17,7 +17,7 @@ This dataset is invaluable for understanding the global landscape of unicorn com
 ## Insights form the Dataset
 ### Country with the Most Unicorn Companies
 The United States has the most unicorn companies, with 51.7% of the total. China is in second place with 16.2%, and India is in third place with 6.08%. The remaining countries each have a smaller percentage of unicorn companies.<br>
-![Pie Chart]('/home/hacker_bunny/Files/Project_2/result/Screenshot from 2024-07-02 13-50-22.png')
+![Pie Chart]('data_science_projects/unicorn_dataset_analysis/result/unicorn_vs_country.png')
 ### Fintech Unicorn Companies
 **Country Distribution Of Fintech Companies:**<br>
 The three countries with most number of fintech companies -:
