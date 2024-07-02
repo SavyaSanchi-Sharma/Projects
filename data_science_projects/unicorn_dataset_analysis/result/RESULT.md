@@ -25,7 +25,7 @@ The three countries with most number of fintech companies -:
 - United Kingdom: The second-largest segment, accounting for 12.2%.
 - India: The third-largest segment, with 6.83%.
 The United States dominates the fintech unicorn space, with more than half of the companies. The United Kingdom and India follow, but with significantly lower percentages. Several countries contribute smaller, yet notable, shares to the global fintech unicorn ecosystem.
-![Country Distribution Of Fintech Companies]('/home/hacker_bunny/Files/Project_2/result/Pasted image.png')
+![Country Distribution Of Fintech Companies](https://github.com/SavyaSanchi-Sharma/Projects/blob/9f8a8a13862baf7c552fe0e2a229ea1433f95cd0/data_science_projects/unicorn_dataset_analysis/result/fintec_unicorn_vs_country.png)
 **Most Valued Fintech Unicorn companies:**<br>
 The most valued fintech unicorn companies are primarily located in the United States, the United Kingdom, and Sweden.<br>
 The top three most valued Fintech Unicorns are-:<br>
@@ -55,13 +55,13 @@ Checkout.com is the third most valued company in this group. The financial stage
 
 - **Strategic Focus**: The differences in financial stages indicate varying strategic focuses. Stripe’s asset stage suggests a focus on leveraging assets for further innovation and market penetration. Klarna’s acquired stage points to a strategy centered around expansion through acquisitions and partnerships. Checkout.com’s presumed non-acquired stage implies a focus on organic growth and foundational development.
 
-![Most Valued Fintech Unicorn companies]('/home/hacker_bunny/Files/Project_2/result/Pasted image 1.png')
+![Most Valued Fintech Unicorn companies](https://github.com/SavyaSanchi-Sharma/Projects/blob/9f8a8a13862baf7c552fe0e2a229ea1433f95cd0/data_science_projects/unicorn_dataset_analysis/result/most_valued_fintech.png)
 
 **Least Valued Fintech Unicorn companies:**<br>
 The least valued fintech companies are primarily located in United States,United Kingdom and China.
-![Country distribution of the least valued fintech unicorns]('/home/hacker_bunny/Files/Project_2/result/Pasted image 2.png')
+![Country distribution of the least valued fintech unicorns](https://github.com/SavyaSanchi-Sharma/Projects/blob/9f8a8a13862baf7c552fe0e2a229ea1433f95cd0/data_science_projects/unicorn_dataset_analysis/result/least_valued_fintech_country.png)
 There are many low valued(Valuation=$1 Billion) companies in the dataset.
+![Least valued fintech unicorns](https://github.com/SavyaSanchi-Sharma/Projects/blob/9f8a8a13862baf7c552fe0e2a229ea1433f95cd0/data_science_projects/unicorn_dataset_analysis/result/least_valued_fintech.png)
 Many of the companies in consideration were founded relatively recently, specifically between 2012 and 2020, suggesting a trend of new entrants leveraging advancements in technology and changing market dynamics to establish themselves. The majority of these companies have an unknown financial stage, indicating they are likely in early development, focusing on growth and market penetration rather than acquisition or asset management strategies. Only one company has reached the Acquired Financial Stage, suggesting significant acquisitions or financial consolidations. Most of these companies have a lower investor count compared to the most valued company, indicating varying levels of investor confidence, market maturity, or different growth trajectories. The lower investor counts might imply that these companies are either more selective in their fundraising efforts or are focusing on organic growth with less external capital infusion compared to the industry leader.  
 **Conclusion**<br>
 The fintech industry's landscape, characterized by a mix of recently founded and older companies with diverse financial stages and investor counts, reflects a dynamic environment where innovation and strategic differentiation play crucial roles. Understanding these dynamics can help stakeholders gauge market trends, competitive positioning, and potential future developments within the sector.
-
