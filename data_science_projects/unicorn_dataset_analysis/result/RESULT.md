@@ -68,7 +68,7 @@ The fintech industry's landscape, characterized by a mix of recently founded and
 ### Artificial Intelligence based Unicorn Companies
 #### Country Distribution of Artificial Intelligence Based Unicorns
 The United States has the most AI-based unicorn companies, with 55.1% of the total. China is in second place, with 24.4% of the total. No other country has more than 3.85% of the total number of AI-based unicorn companies.
-![Country Distribution of AI Based Unicorns](link)<br>
+![Country Distribution of AI Based Unicorns](https://github.com/SavyaSanchi-Sharma/Projects/blob/8dc7368557d2cfbca4f283610ef932b63d522728/data_science_projects/unicorn_dataset_analysis/result/ai_unicorn_country.png)<br>
 #### Most Valued Artificial Intelligence based Unicorns
 **Bytedance:**
 Bytedance, valued at $140 billion, is a major player in the AI industry, founded in 2012 and based in China. It has raised $7.44 billion and has reached the IPO financial stage, indicating its maturity and market strength. Bytedance is supported by 28 investors and has 5 portfolio exits, showcasing its successful investment returns.
@@ -95,3 +95,4 @@ The least valued AI unicorns, each valued at $1 billion, demonstrate strong mark
 - Emerging companies in the AI sector, even those valued at $1 billion, demonstrate strong growth potential globally, reflecting the industry's nascent yet promising stage of development. With significant backing from investors and a focus on technological advancement, these unicorns are poised to shape the future of AI across various sectors and applications.
 
 - In conclusion, the AI industry is still relatively young, having seen substantial growth and investment over the past 6 to 12 years. As these unicorns continue to innovate and expand their market presence, the global AI landscape promises continued evolution and transformation, driven by technological advancement and strategic investments
+![AI Based Unicorns](https://github.com/SavyaSanchi-Sharma/Projects/blob/8dc7368557d2cfbca4f283610ef932b63d522728/data_science_projects/unicorn_dataset_analysis/result/ai_based%20unicorn_company.png)<br>
