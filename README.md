@@ -8,6 +8,7 @@ Welcome to my GitHub repository! This repository contains a collection of my pro
 - [Projects](#projects)
    - [Data Science](#data-science)
       - [Tesla and GameStop Stock Data Analysis](#tesla-and-gamestop-stock-data-analysis)
+      - [Unicorn Company Data Analysis](#unicorn-company-data-analysis)
 - [Skills and Tools](#skills-and-tools)
 - [Contact](#contact)
 
@@ -33,6 +34,15 @@ I am Savya Sanchi Sharma, a student with a passion for learning and creating inn
 - [Notebook File](data_science_projects/Tesla_and_Gamestop_stock_analysis/notebook/Stock_Analysis_of_Tesla_and_Gamestock.ipynb)
 - [Result](data_science_projects/Tesla_and_Gamestop_stock_analysis/result)
 
+#### Unicorn Company Data Analysis
+**Description:** This project analyzes the growth of unicorn companies in sector like Fintech, Artificial Intelligence,Cybersecurity and Data management & Analytics from a dataset which was taken from [Kaggle](https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset/data).The analysis focuses on uncovering trends, patterns, and insights through data preprocessing,data visualization and data exploration.
+
+**Technologies Used:** Python, Pandas, Plotly, Matplotlib, Seaborn, NumPy, Jupyter Notebook
+
+**Project Files:**
+- [Dataset](data_science_projects/unicorn_dataset_analysis/dataset/Unicorn_Companies.csv)
+- [Notebook File](data_science_projects/unicorn_dataset_analysis/notebooks/unicorn_company_analysis.ipynb)
+- [Result](data_science_projects/unicorn_dataset_analysis/result)
 ## Skills and Tools
 - **Programming Languages:** Python,SQL,C,C++
 - **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
